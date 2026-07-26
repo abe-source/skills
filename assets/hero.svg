@@ -1,5 +1,5 @@
 <svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="hero-title">
-  <title id="hero-title">skills — AI agent playbooks, packaged and published</title>
+  <title id="hero-title">skills — AI agent skills, packaged and published</title>
   <defs>
     <radialGradient id="glow" cx="82%" cy="50%" r="60%">
       <stop offset="0%" stop-color="#eab308" stop-opacity="0.20"/>
@@ -14,7 +14,7 @@
   <rect width="1200" height="300" fill="url(#grid)" opacity="0.5"/>
   <rect width="1200" height="300" fill="url(#glow)"/>
 
-  <!-- Playbook card stack motif, right side — one canonical doc fanning out to multiple tools -->
+  <!-- Skill card stack motif, right side — one canonical doc fanning out to multiple tools -->
   <g font-family="ui-monospace, Menlo, monospace" font-size="13">
     <rect x="970" y="185" width="190" height="60" rx="8" fill="#111614" stroke="#854d0e" stroke-width="1.6"/>
     <text x="990" y="210" fill="#6b7280">cursor</text>
@@ -25,7 +25,7 @@
     <text x="1010" y="185" fill="#6b7280" font-size="11">instructions.md</text>
 
     <rect x="1010" y="95" width="190" height="60" rx="8" fill="#111614" stroke="#eab308" stroke-width="2"/>
-    <text x="1030" y="120" fill="#fde68a">playbook.md</text>
+    <text x="1030" y="120" fill="#fde68a">skill.md</text>
     <text x="1030" y="140" fill="#facc15" font-size="11">-&gt; any agent</text>
   </g>
 
@@ -34,10 +34,10 @@
     <tspan fill="#facc15">skills</tspan>
   </text>
   <text x="80" y="170" font-family="ui-sans-serif, -apple-system, Segoe UI, sans-serif" font-size="20" fill="#9ca3a3">
-    AI agent playbooks, packaged and published
+    AI agent skills, packaged and published
   </text>
 
   <text x="80" y="215" font-family="ui-monospace, Menlo, monospace" font-size="15" fill="#4b5563">
-    tool-agnostic playbooks · per-tool adapters · reusable workflows
+    tool-agnostic skills · per-tool adapters · reusable workflows
   </text>
 </svg>
