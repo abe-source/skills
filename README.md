@@ -15,11 +15,13 @@ A skill is a folder with a `SKILL.md` file: a description (so the agent knows wh
 
 ## Skills
 
-_Nothing published yet — check back soon._
+| Skill | What it does |
+|---|---|
+| [`upwork-portfolio-item`](upwork-portfolio-item) | Produces the cover image, demo screenshot, and title/description/tags copy for adding a shipped project to your Upwork portfolio |
 
 ## Installation
 
-Once a skill is published here, drop its folder into your tool's skills directory:
+Drop a skill's folder into your tool's skills directory:
 
 ```bash
 git clone https://github.com/abe-source/skills.git
